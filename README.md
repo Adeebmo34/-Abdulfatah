@@ -195,7 +195,7 @@
             <a href="https://www.facebook.com/share/1F243ocN41/" class="link-btn" target="_blank">تابعنا على Facebook</a>
             <a href="https://twitter.com/Almalmas_Alraqi" class="link-btn" target="_blank">تابعنا على X</a>
             <footer>
-      &copy; Edited by Arafat Al-Awadhi
+      Edited by Arafat Al-Awadhi
     </footer>
         </div>
     </div>
