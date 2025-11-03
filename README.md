@@ -186,7 +186,6 @@
 
     <footer>
       &copy; 2025 جميع الحقوق محفوظة
-       &copy; Edited by Arafat Al-Awadhi
     </footer>
   </div>
 </body>
